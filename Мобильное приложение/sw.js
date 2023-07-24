@@ -3,7 +3,7 @@ const staticCacheName = 's-app-v1'
 const assetUrls = [
 'index.html',
 'app.js',
-'стиль.css'
+'style.css'
 ]
 
 self.addEventListener('install', async event => {
